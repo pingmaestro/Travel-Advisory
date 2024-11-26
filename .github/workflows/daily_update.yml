@@ -44,6 +44,6 @@ jobs:
           git config --local user.email "action@github.com"
           git add travel_advisories.csv
           git commit -m "Daily data update"
-          git push
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
