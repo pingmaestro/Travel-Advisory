@@ -49,7 +49,7 @@ if response.status_code == 200:
 
     df = pd.DataFrame(advisories)
 
-    df.to_csv("travel_advirories_final.csv", index=False, encoding="utf-8-sig")
+    df.to_csv("travel_advisories.csv", index=False, encoding="utf-8-sig")
 
     print("Data exported to 'travel_advisories.csv' successfully.")
 else:
