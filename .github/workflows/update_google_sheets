@@ -1,0 +1,31 @@
+name: Update Google Sheets Daily
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Runs daily at 7:00 AM UTC
+  workflow_dispatch:  # Allows manual runs if needed
+
+jobs:
+  update-google-sheets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install gspread oauth2client pandas requests
+
+      - name: Create Credentials File
+        # Create credentials.json from the secret
+        run: |
+          echo "${{ secrets.GOOGLE_CREDENTIALS_JSON }}" > credentials.json
+
+      - name: Update Google Sheets
+        run: python Canada_travel_updates_google_sheets.py
