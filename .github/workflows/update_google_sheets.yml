@@ -26,6 +26,7 @@ jobs:
         # Create credentials.json from the secret
         run: |
           echo "${{ secrets.GOOGLE_CREDENTIALS_JSON }}" > credentials.json
+          cat credentials.json  # Print out the content to verify correct formatting
 
       - name: Update Google Sheets
         run: python Update_to_Google_Sheets.py
