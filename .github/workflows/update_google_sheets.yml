@@ -28,4 +28,4 @@ jobs:
           echo "${{ secrets.GOOGLE_CREDENTIALS_JSON }}" > credentials.json
 
       - name: Update Google Sheets
-        run: python Canada_travel_updates_google_sheets.py
+        run: python Update_to_Google_Sheets.py
