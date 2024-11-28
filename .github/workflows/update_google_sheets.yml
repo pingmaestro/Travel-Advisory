@@ -21,12 +21,10 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install gspread oauth2client pandas requests
-
+      
       - name: Create Credentials File
         run: |
-          echo "${{ secrets.GOOGLE_CREDENTIALS_BASE64 }}" | base64 --decode > temp_credentials.json
-          # Replace \\n with newlines only for the private_key value
-          awk '/"private_key":/ {gsub(/\\\\n/,"\n")} 1' temp_credentials.json > credentials.json
+          echo "${{ secrets.GOOGLE_CREDENTIALS_BASE64 }}" | base64 --decode > credentials.json
           echo "Decoded Credentials File Content (for debugging):"
           cat credentials.json
 
