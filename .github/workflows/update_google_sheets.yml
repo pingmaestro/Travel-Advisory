@@ -23,11 +23,13 @@ jobs:
           pip install gspread oauth2client pandas requests
 
       - name: Create Credentials File
-        # Create credentials.json from the secret and debug
+        # Write the secret to the file and print the raw content to check for formatting issues
         run: |
           printf "%s" "${{ secrets.GOOGLE_CREDENTIALS_JSON }}" > credentials.json
-          echo "Credentials file content:"
-          cat credentials.json  # Print credentials to verify content
-
+          echo "Raw Credentials File Content (for debugging):"
+          od -c credentials.json  # Display the raw content with control characters
+          echo "Content of credentials.json (using cat):"
+          cat credentials.json  # Print the content for verification
+          
       - name: Update Google Sheets
         run: python Update_to_Google_Sheets.py
