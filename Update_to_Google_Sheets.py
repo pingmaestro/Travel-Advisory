@@ -23,7 +23,7 @@ creds = ServiceAccountCredentials.from_json_keyfile_name('credentials.json', sco
 client = gspread.authorize(creds)
 
 # Step 2: Get the Google Sheet
-sheet = client.open("Travel Advisories Data").sheet1
+sheet = client.open("Travel Advisories Data - Canada").sheet1
 
 # Step 3: Fetch the latest CSV from GitHub
 url = "https://raw.githubusercontent.com/pingmaestro/Travel-Advisory/main/travel_advisories.csv"
