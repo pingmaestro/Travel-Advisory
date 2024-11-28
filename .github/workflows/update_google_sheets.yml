@@ -23,11 +23,11 @@ jobs:
           pip install gspread oauth2client pandas requests
 
       - name: Create Credentials File
-        # Decode the base64 encoded secret and write it to credentials.json
+        # Decode the base64 encoded secret and write it to credentials.json with proper newlines
         run: |
-          echo "${{ secrets.GOOGLE_CREDENTIALS_BASE64 }}" | base64 --decode > credentials.json
+          echo "${{ secrets.GOOGLE_CREDENTIALS_BASE64 }}" | base64 --decode | sed 's/\\n/\n/g' > credentials.json
           echo "Decoded Credentials File Content (for debugging):"
           cat credentials.json
-          
+
       - name: Update Google Sheets
         run: python Update_to_Google_Sheets.py
