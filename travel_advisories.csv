@@ -11,7 +11,7 @@ Antigua and Barbuda,/destinations/antigua-and-barbuda,Take normal security preca
 Argentina,/destinations/argentina,Take normal security precautions (with regional advisories),2024-12-17 14:16:39
 Armenia,/destinations/armenia,Take normal security precautions (with regional advisories),2024-12-16 08:44:26
 Aruba,/destinations/aruba,Take normal security precautions,2024-11-19 14:24:45
-Australia,/destinations/australia,Take normal security precautions,2025-01-23 16:40:11
+Australia,/destinations/australia,Take normal security precautions,2025-01-24 14:17:43
 Austria,/destinations/austria,Take normal security precautions,2025-01-08 00:44:33
 Azerbaijan,/destinations/azerbaijan,Exercise a high degree of caution (with regional advisories),2024-11-08 05:22:02
 Azores,/destinations/azores,Take normal security precautions,2025-01-09 09:34:09
@@ -54,7 +54,7 @@ Cuba,/destinations/cuba,Exercise a high degree of caution (with regional advisor
 Curaçao,/destinations/curacao,Take normal security precautions,2024-11-19 14:31:35
 Cyprus,/destinations/cyprus,Take normal security precautions (with regional advisories),2024-12-30 10:41:09
 Czechia,/destinations/czechia,Take normal security precautions,2024-12-16 10:07:24
-Democratic Republic of Congo (Kinshasa),/destinations/congo-kinshasa,Avoid non-essential travel (with regional advisories),2024-12-10 15:28:07
+Democratic Republic of Congo (Kinshasa),/destinations/congo-kinshasa,Avoid non-essential travel (with regional advisories),2025-01-24 16:17:18
 Denmark,/destinations/denmark,Exercise a high degree of caution,2024-12-09 08:47:52
 Djibouti,/destinations/djibouti,Exercise a high degree of caution (with regional advisories),2025-01-17 10:30:22
 Dominica,/destinations/dominica,Take normal security precautions,2024-11-19 14:33:34
@@ -84,7 +84,7 @@ Greenland,/destinations/greenland,Take normal security precautions,2024-08-07 13
 Grenada,/destinations/grenada,Take normal security precautions (with regional advisories),2025-01-20 15:45:43
 Guadeloupe,/destinations/guadeloupe,Take normal security precautions,2024-12-13 10:38:11
 Guam,/destinations/guam,Take normal security precautions,2025-01-22 10:51:18
-Guatemala,/destinations/guatemala,Exercise a high degree of caution (with regional advisories),2025-01-13 12:40:46
+Guatemala,/destinations/guatemala,Exercise a high degree of caution (with regional advisories),2025-01-24 08:24:36
 Guinea,/destinations/guinea,Exercise a high degree of caution,2024-12-13 10:42:45
 Guinea-Bissau,/destinations/guinea-bissau,Exercise a high degree of caution (with regional advisories),2024-11-19 15:09:01
 Guyana,/destinations/guyana,Exercise a high degree of caution,2025-01-02 11:29:58
@@ -97,7 +97,7 @@ India,/destinations/india,Exercise a high degree of caution (with regional advis
 Indonesia,/destinations/indonesia,Exercise a high degree of caution (with regional advisories),2025-01-07 08:57:48
 Iran,/destinations/iran,Avoid all travel,2025-01-17 10:30:22
 Iraq,/destinations/iraq,Avoid all travel,2024-12-30 08:17:32
-Ireland,/destinations/ireland,Take normal security precautions,2025-01-23 12:52:04
+Ireland,/destinations/ireland,Take normal security precautions,2025-01-24 16:40:05
 "Israel, the West Bank and the Gaza Strip",/destinations/israel-the-west-bank-and-the-gaza-strip,Avoid non-essential travel (with regional advisories),2024-12-30 07:37:44
 Italy,/destinations/italy,Exercise a high degree of caution,2025-01-09 21:37:51
 Jamaica,/destinations/jamaica,Exercise a high degree of caution,2024-12-30 12:14:13
@@ -182,7 +182,7 @@ San Marino,/destinations/san-marino,Take normal security precautions,2024-08-07 
 Sao Tome and Principe,/destinations/sao-tome-and-principe,Take normal security precautions,2024-11-08 05:22:02
 Saudi Arabia,/destinations/saudi-arabia,Exercise a high degree of caution (with regional advisories),2025-01-17 10:30:22
 Senegal,/destinations/senegal,Exercise a high degree of caution,2025-01-03 08:19:30
-Serbia,/destinations/serbia,Take normal security precautions (with regional advisories),2025-01-23 13:48:06
+Serbia,/destinations/serbia,Take normal security precautions (with regional advisories),2025-01-24 07:30:54
 Seychelles,/destinations/seychelles,Take normal security precautions,2024-11-08 05:22:02
 Sierra Leone,/destinations/sierra-leone,Exercise a high degree of caution,2025-01-07 11:11:44
 Singapore,/destinations/singapore,Take normal security precautions,2025-01-03 08:29:21
@@ -193,7 +193,7 @@ Solomon Islands,/destinations/solomon-islands,Take normal security precautions,2
 Somalia,/destinations/somalia,Avoid all travel,2025-01-17 10:30:22
 South Africa,/destinations/south-africa,Exercise a high degree of caution,2025-01-16 08:05:29
 South Korea,/destinations/south-korea,Take normal security precautions,2025-01-03 08:41:37
-South Sudan,/destinations/south-sudan,Avoid all travel,2025-01-23 09:54:04
+South Sudan,/destinations/south-sudan,Avoid all travel,2025-01-24 12:24:19
 Spain,/destinations/spain,Exercise a high degree of caution,2025-01-03 08:50:11
 Sri Lanka,/destinations/sri-lanka,Exercise a high degree of caution,2025-01-10 08:20:45
 Sudan,/destinations/sudan,Avoid all travel,2025-01-03 09:12:10
@@ -203,7 +203,7 @@ Switzerland,/destinations/switzerland,Take normal security precautions,2025-01-0
 Syria,/destinations/syria,Avoid all travel,2025-01-17 10:30:22
 Taiwan,/destinations/taiwan,Take normal security precautions,2025-01-13 08:24:08
 Tajikistan,/destinations/tajikistan,Exercise a high degree of caution (with regional advisories),2024-11-08 05:22:02
-Tanzania,/destinations/tanzania,Exercise a high degree of caution (with regional advisories),2025-01-21 14:09:56
+Tanzania,/destinations/tanzania,Exercise a high degree of caution (with regional advisories),2025-01-24 10:50:42
 Thailand,/destinations/thailand,Exercise a high degree of caution (with regional advisories),2025-01-03 09:42:00
 Timor-Leste (East Timor),/destinations/timor-leste-east-timor,Exercise a high degree of caution,2024-11-08 05:22:02
 Togo,/destinations/togo,Exercise a high degree of caution (with regional advisories),2024-12-10 13:13:37
@@ -218,8 +218,8 @@ Tuvalu,/destinations/tuvalu,Take normal security precautions,2024-11-08 05:22:02
 Uganda,/destinations/uganda,Exercise a high degree of caution (with regional advisories),2024-12-10 13:10:18
 Ukraine,/destinations/ukraine,Avoid all travel,2025-01-03 09:49:06
 United Arab Emirates,/destinations/united-arab-emirates,Exercise a high degree of caution,2025-01-17 10:30:22
-United Kingdom,/destinations/united-kingdom,Exercise a high degree of caution,2025-01-20 10:39:15
-United States,/destinations/united-states,Take normal security precautions,2025-01-23 10:57:35
+United Kingdom,/destinations/united-kingdom,Exercise a high degree of caution,2025-01-24 08:24:07
+United States,/destinations/united-states,Take normal security precautions,2025-01-24 15:09:42
 Uruguay,/destinations/uruguay,Take normal security precautions (with regional advisories),2025-01-13 08:26:37
 Uzbekistan,/destinations/uzbekistan,Take normal security precautions (with regional advisories),2025-01-10 08:19:53
 Vanuatu,/destinations/vanuatu,Take normal security precautions,2025-01-23 16:40:11
