@@ -11,7 +11,7 @@ Antigua and Barbuda,/destinations/antigua-and-barbuda,Take normal security preca
 Argentina,/destinations/argentina,Take normal security precautions (with regional advisories),2026-05-07 11:49:13
 Armenia,/destinations/armenia,Take normal security precautions (with regional advisories),2026-05-04 14:12:34
 Aruba,/destinations/aruba,Take normal security precautions,2026-05-04 14:13:15
-Australia,/destinations/australia,Take normal security precautions,2026-05-04 10:10:34
+Australia,/destinations/australia,Take normal security precautions,2026-05-11 15:32:57
 Austria,/destinations/austria,Take normal security precautions,2026-05-04 10:10:34
 Azerbaijan,/destinations/azerbaijan,Exercise a high degree of caution (with regional advisories),2026-05-04 14:13:51
 Azores,/destinations/azores,Take normal security precautions,2026-05-06 17:24:51
@@ -21,7 +21,7 @@ Bangladesh,/destinations/bangladesh,Exercise a high degree of caution (with regi
 Barbados,/destinations/barbados,Take normal security precautions,2026-05-06 16:42:48
 Belarus,/destinations/belarus,Avoid all travel,2026-05-04 10:28:53
 Belgium,/destinations/belgium,Exercise a high degree of caution,2026-05-04 10:10:34
-Belize,/destinations/belize,Exercise a high degree of caution (with regional advisories),2026-05-06 16:56:51
+Belize,/destinations/belize,Exercise a high degree of caution (with regional advisories),2026-05-11 16:43:46
 Benin,/destinations/benin,Exercise a high degree of caution (with regional advisories),2026-05-04 11:03:39
 Bermuda,/destinations/bermuda,Take normal security precautions,2026-05-04 14:18:30
 Bhutan,/destinations/bhutan,Take normal security precautions,2026-05-04 10:28:53
@@ -34,7 +34,7 @@ British Virgin Islands,/destinations/british-virgin-islands,Take normal security
 Brunei,/destinations/brunei,Take normal security precautions,2026-05-04 14:20:43
 Bulgaria,/destinations/bulgaria,Take normal security precautions,2026-05-04 10:10:34
 Burkina Faso,/destinations/burkina-faso,Avoid all travel,2026-05-04 13:11:32
-Burundi,/destinations/burundi,Avoid non-essential travel (with regional advisories),2026-05-04 13:13:15
+Burundi,/destinations/burundi,Avoid non-essential travel (with regional advisories),2026-05-11 13:41:10
 Cabo Verde,/destinations/cabo-verde,Exercise a high degree of caution,2026-05-04 10:10:34
 Cambodia,/destinations/cambodia,Exercise a high degree of caution (with regional advisories),2026-05-04 13:13:56
 Cameroon,/destinations/cameroon,Exercise a high degree of caution (with regional advisories),2026-05-07 09:04:29
@@ -101,7 +101,7 @@ Ireland,/destinations/ireland,Take normal security precautions,2026-05-04 10:10:
 Israel and Palestine,/destinations/israel-and-palestine,Avoid all travel,2026-05-04 13:23:59
 Italy,/destinations/italy,Exercise a high degree of caution,2026-05-05 11:30:15
 Jamaica,/destinations/jamaica,Exercise a high degree of caution,2026-05-04 14:33:10
-Japan,/destinations/japan,Take normal security precautions,2026-05-07 09:05:27
+Japan,/destinations/japan,Take normal security precautions,2026-05-11 15:46:18
 Jordan,/destinations/jordan,Avoid non-essential travel (with regional advisories),2026-05-04 13:37:00
 Kazakhstan,/destinations/kazakhstan,Take normal security precautions,2026-05-04 14:48:38
 Kenya,/destinations/kenya,Exercise a high degree of caution (with regional advisories),2026-05-07 09:23:29
@@ -123,14 +123,14 @@ Madagascar,/destinations/madagascar,Exercise a high degree of caution,2026-05-04
 Malawi,/destinations/malawi,Exercise a high degree of caution,2026-05-06 16:53:46
 Malaysia,/destinations/malaysia,Take normal security precautions (with regional advisories),2026-05-06 16:51:02
 Maldives,/destinations/maldives,Exercise a high degree of caution,2026-05-04 10:10:35
-Mali,/destinations/mali,Avoid all travel,2026-05-04 10:39:26
+Mali,/destinations/mali,Avoid all travel,2026-05-11 16:37:38
 Malta,/destinations/malta,Take normal security precautions,2026-05-04 10:10:35
 Marshall Islands,/destinations/marshall-islands,Take normal security precautions,2026-05-06 16:52:44
 Martinique,/destinations/martinique,Take normal security precautions,2026-05-04 14:49:46
 Mauritania,/destinations/mauritania,Avoid non-essential travel (with regional advisories),2026-05-04 13:30:51
 Mauritius,/destinations/mauritius,Take normal security precautions,2026-05-06 17:23:41
 Mayotte,/destinations/mayotte,Exercise a high degree of caution,2026-05-04 14:50:05
-Mexico,/destinations/mexico,Exercise a high degree of caution (with regional advisories),2026-05-08 13:40:53
+Mexico,/destinations/mexico,Exercise a high degree of caution (with regional advisories),2026-05-11 15:31:48
 Micronesia (FSM),/destinations/micronesia-fsm,Take normal security precautions,2026-05-04 14:37:39
 Moldova,/destinations/moldova,Exercise a high degree of caution (with regional advisories),2026-05-04 10:28:53
 Monaco,/destinations/monaco,Take normal security precautions,2026-05-04 10:10:35
@@ -143,7 +143,7 @@ Myanmar,/destinations/myanmar,Avoid all travel,2026-05-04 10:39:26
 Namibia,/destinations/namibia,Exercise a high degree of caution,2026-05-07 16:24:21
 Nauru,/destinations/nauru,Take normal security precautions,2026-05-04 10:10:35
 Nepal,/destinations/nepal,Exercise a high degree of caution,2026-05-04 13:33:13
-Netherlands,/destinations/netherlands,Exercise a high degree of caution,2026-05-04 11:32:28
+Netherlands,/destinations/netherlands,Exercise a high degree of caution,2026-05-11 15:49:28
 New Caledonia,/destinations/new-caledonia,Exercise a high degree of caution,2026-05-04 14:36:08
 New Zealand,/destinations/new-zealand,Take normal security precautions,2026-05-04 10:10:35
 Nicaragua,/destinations/nicaragua,Exercise a high degree of caution,2026-05-04 14:52:08
@@ -209,7 +209,7 @@ Timor-Leste (East Timor),/destinations/timor-leste-east-timor,Exercise a high de
 Togo,/destinations/togo,Exercise a high degree of caution (with regional advisories),2026-05-04 13:44:58
 Tokelau,/destinations/tokelau,Take normal security precautions,2026-05-04 10:10:35
 Tonga,/destinations/tonga,Take normal security precautions,2026-05-04 14:08:50
-Trinidad and Tobago,/destinations/trinidad-and-tobago,Exercise a high degree of caution (with regional advisories),2026-05-04 15:00:32
+Trinidad and Tobago,/destinations/trinidad-and-tobago,Exercise a high degree of caution (with regional advisories),2026-05-11 16:38:04
 Tunisia,/destinations/tunisia,Exercise a high degree of caution (with regional advisories),2026-05-04 10:28:53
 Türkiye,/destinations/turkiye,Exercise a high degree of caution (with regional advisories),2026-05-04 13:48:10
 Turkmenistan,/destinations/turkmenistan,Exercise a high degree of caution (with regional advisories),2026-05-04 15:01:03
